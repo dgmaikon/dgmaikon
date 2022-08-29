@@ -32,6 +32,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/dgmaikon/dgmaikon/blob/output/snake.svg" alt="Snake animation" />
-
-###
