@@ -2,13 +2,28 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/dgmaikondev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="discordapp.com/users/7984" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/dgmaikon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
 <h3 align="left">🔥 Desenvolvedor Full-Stack<br>👨‍🎓 Estudando JavaScript | NodeJS | ExpressJS</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=GitStatus&username=dgmaikon" height="150" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=dgmaikon" height="150" alt="languages graph"  />
 </div>
 
@@ -31,4 +46,3 @@
 </div>
 
 ###
-
