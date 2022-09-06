@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo+2&size=30&duration=2000&pause=1000&color=A5CCF7&width=460&lines=Ola%2C+me+chamo+Maikon+Nat%C3%A3;E+estou+aprendendo+programa%C3%A7%C3%A3o;No+momento+estudo;NodeJS+%7C+JavaScript+%7C+Express+%7C+CSS+%7C+HTML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2000&pause=1000&color=A5CCF7&width=460&lines=Ola%2C+me+chamo+Maikon+Nat%C3%A3;E+estou+aprendendo+programa%C3%A7%C3%A3o;No+momento+estudo;NodeJS+%7C+JavaScript+%7C+Express+%7C+CSS+%7C+HTML)](https://git.io/typing-svg)
 
 ###
 
