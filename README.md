@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🔥 Desenvolvedor Full-Stack<br>👨‍🎓 Estudando JavaScript | NodeJS | ExpressJS</h3>
+<h3 align="left">🔥 Desenvolvedor Front-End<br>👨‍🎓 Estudando HTML| CSS3 | Git | Github | JavaScript | NodeJS | EJS | BootStrap | ReactJs </h3>
 
 ###
 
