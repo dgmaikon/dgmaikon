@@ -21,7 +21,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=dgmaikon" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=dgmaikon&cc=000&tc=fff&ic=fff&bc=000" />
+  Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=GitStatus&username=dgmaikon" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=dgmaikon" height="150" alt="languages graph"  />
 </div>
