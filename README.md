@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=dgmaikon&cc=transparent&tc=b574b6&ic=4d237f&bc=000" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=dgmaikon&cc=transparent&tc=294a92&ic=4d237f&bc=000" />
 
 ###
 
