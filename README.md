@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=30&duration=2000&pause=1000&color=A5CCF7&width=460&lines=Ola%2C+me+chamo+Maikon+Nat%C3%A3;E+estou+aprendendo+programacao;No+momento+estudo;React+%7C+JavaScript+%7C+CSS+%7C+HTML+%7C+WebReponsivo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&weight=500&size=24&duration=3000&pause=1500&center=true&width=500&lines=Ol%C3%A1+me+chamo+Maikon+Nat%C3%A3;tenho+25+anos;sou+Desenvolvedor+Front-End;trabalho+com+linguagens+como;React+%7C+Javascript+%7C+CSS+)](https://git.io/typing-svg)
 
 ###
 
