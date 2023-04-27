@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&weight=700&size=24&duration=3000&pause=1500&center=true&width=500&lines=Ol%C3%A1+me+chamo+Maikon+Nat%C3%A3;tenho+25+anos;sou+Desenvolvedor+Front-End;trabalho+com+linguagens+como;React+%7C+Javascript+%7C+CSS+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+&weight=900&size=28&duration=3000&pause=1500&center=true&width=500&lines=Ol%C3%A1+me+chamo+Maikon+Nat%C3%A3;tenho+25+anos;sou+Desenvolvedor+Front-End;trabalho+com+linguagens+como;React+%7C+Javascript+%7C+CSS+)](https://git.io/typing-svg)
 
 ###
 
