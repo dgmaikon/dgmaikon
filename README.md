@@ -23,7 +23,8 @@
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=dgmaikon&cc=transparent&tc=294a92&ic=4d237f&bc=000" />
 
-###
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dgmaikon&layout=compact&bg_color=000&border_color=30A3DC&title_color=294a92&text_color=FFF)
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
