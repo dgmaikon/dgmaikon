@@ -7,8 +7,6 @@
 
 ###
 
-<h3 align="left">🔥 Desenvolvedor Full-Stack<br>👨‍🎓 Estudando HTML| CSS3 | Git | Github | JavaScript | NodeJS | EJS | BootStrap | ReactJs </h3>
-
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; Me chamo Maikon Natã de Oliveira tenho 26 anos sou do interior de São Paulo, cursei Ciências da Computação na UNIP - Universidade Paulista em São José Do Rio Preto.
